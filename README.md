@@ -39,13 +39,10 @@ Flask-ShadowStyle, proof of concept for a local flask server
 
 ## ▶️ Usage
 
-1. **Run the Flask Application**
+1. **Run the Application**
     ```sh
-    python backend.py
+    python main.py
     ```
-
-2. **Open the HTML File**
-    Open `index.html` in your web browser to view the system information.
 
 ## 📁 Project Structure
 
