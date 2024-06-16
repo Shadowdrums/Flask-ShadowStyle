@@ -109,7 +109,7 @@ def system_info():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 
-🌐 Frontend (index.html)
+## 🌐 Frontend (output.html):
 The HTML file fetches system information from the backend and displays it in a clean, user-friendly format. It also includes a button that redirects to http://www.shadowdrums.com when clicked.
 
 Example Frontend Code:
@@ -176,7 +176,7 @@ Example Frontend Code:
 </body>
 </html>
 
-📊 Example Output
+## 📊 Example Output:
 When you open index.html in your browser, you will see the live system information updated every 5 seconds:
 ```
 CPU Usage: 10%
