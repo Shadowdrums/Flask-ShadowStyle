@@ -53,10 +53,10 @@ Flask-ShadowStyle/
 └── README.md        # This README file
 ```
 
-🔧 Backend Script (backend.py)
+## 🔧 Backend Script (backend.py)
 This script uses Flask to create a web server that serves system information at the /system_info endpoint. It gathers information using psutil and GPUtil libraries.
 
-Example Backend Code:
+## Example Backend Code:
 
 import psutil
 import GPUtil
@@ -112,7 +112,7 @@ if __name__ == '__main__':
 ## 🌐 Frontend (output.html):
 The HTML file fetches system information from the backend and displays it in a clean, user-friendly format. It also includes a button that redirects to http://www.shadowdrums.com when clicked.
 
-Example Frontend Code:
+## Example Frontend Code:
 
 <!DOCTYPE html>
 <html lang="en">
