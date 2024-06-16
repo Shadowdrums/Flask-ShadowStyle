@@ -49,7 +49,7 @@ Flask-ShadowStyle, proof of concept for a local flask server
 ```plaintext
 Flask-ShadowStyle/
 ├── backend.py       # Python script to gather and serve system information
-├── index.html       # HTML file to display the system information
+├── main.py       #builds and runs HTML file and backend to display the system information
 └── README.md        # This README file
 ```
 
